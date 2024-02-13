@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimadaqch" alt="rimadaqch" /></a> </p>
-
 - 🔭 I’m currently studying **artificial intelligence and virtual reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rimadaqch](https://github.com/Rimadaqch)
