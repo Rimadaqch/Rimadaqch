@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daqch Rima</h1>
 <h3 align="center">Ai Engineer from Morocco</h3>
 
+![Uploading feels pure & authentic.png…]()
 
 
 - 🔭 I’m currently studying **artificial intelligence and virtual reality**
