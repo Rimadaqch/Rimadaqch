@@ -2,6 +2,7 @@
 <h3 align="center">Ai Engineer from Morocco</h3>
 
 
+ 
 
 - 🔭 I’m currently studying **artificial intelligence and virtual reality**
 
@@ -23,6 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimadaqch&" alt="rimadaqch" /></p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200">
 </p>
 
