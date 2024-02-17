@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daqch Rima</h1>
 <h3 align="center">Ai Engineer from Morocco</h3>
-![GitHub Gift](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-
+![GitHub Gift](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
 
 
 
