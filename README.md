@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daqch Rima</h1>
 <h3 align="center">Ai Engineer from Morocco</h3>
 
-![Uploading 212741999-016fddbd-617a-4448-8042-0ecf907aea25 (1).gif…]()
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+</p>
 
 
 - 🔭 I’m currently studying **artificial intelligence and virtual reality**
