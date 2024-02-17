@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daqch Rima</h1>
 <h3 align="center">Ai Engineer from Morocco</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-</p>
 
 
 - 🔭 I’m currently studying **artificial intelligence and virtual reality**
@@ -24,4 +21,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimadaqch&show_icons=true&locale=en&layout=compact" alt="rimadaqch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimadaqch&" alt="rimadaqch" /></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+</p>
 
